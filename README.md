@@ -33,6 +33,11 @@ Source: https://softwareengineering.stackexchange.com/questions/48237/what-is-an
 "As stated above, the actual workflow. Someone puts a piece of goods to the shopping basket and fills in the user data, pays for it. I check if I actually received payment, make call to warehouse, make sure they received the data. And as little cherry on the pie: By receving the parcel, I make sure, that those data were good enough, were printed correctly, especially, when my real name is Pavel Janíček (see the funny diacritics? they sometimes get printed out incorrectly)."
 
 Source: https://stackoverflow.com/questions/19378183/difference-between-system-testing-and-end-to-end-testing
+
+
+#### Tips on how to maximize integration tests:
+  - Poke fewer holes in reality.
+  - Test higher up on your tree.
   
 USEFUL LINK:
  https://github.com/sapegin/jest-cheat-sheet (JEST CHEATSHEET)
